@@ -11,9 +11,9 @@
 - 💞️ Currently i am pursuing DATA ANALYST course. 
 -    I’m looking to collaborate on DataAnalyst Project.
 -
--  ****  Socical Handle- Connect with me on below platform:****
+-  📫 ****  Socical Handle- Connect with me on below platform:****
 -  
-- 📫 My mail id is : lingeshree@gmail.com
+-  My mail id is : lingeshree@gmail.com
 - Linkdin- https://www.linkedin.com/feed/
 
 
