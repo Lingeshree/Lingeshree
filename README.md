@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my Github page.
+- 👋 **Hi, Welcome to my Github page**
 - 
 - 👀 **Visulaize My Profile:**
 -
