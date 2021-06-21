@@ -1,7 +1,8 @@
 - 👋 **Hi, Welcome to my Github page**
 - 
 - 👀 **Visulaize My Profile:**
--
+- 
+- I am Lingeshwaran.
 - I have completed DIPLOMA IN COMPUTER ENGINEERING at T.J.S Polytechninc college in 2013.
 - I have 4 yeras experiece in telecom domain in project managment department. 
 - I have good knowledge in EXCEL. I have handled large type of data during my past company's.
